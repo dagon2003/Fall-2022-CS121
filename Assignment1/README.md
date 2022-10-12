@@ -13,11 +13,11 @@
 
 #### Group Members
 
-| Name                          | Email       | Github Username |
-| ----------------------------- | ----------- | --------------- |
-| [First Name , Last Name](Link to github page) | EMAIL address  | username    |
-| [First Name , Last Name](Link to github page) | EMAIL address   | username     |
-| [First Name , Last Name](Link to github page) | EMAIL address  | username   |
+| Name                                          | Email | Github Username |
+|-----------------------------------------------| -- | --------------- |
+| [Dagon , Katz](https://github.com/dagon2003)           | dagon.katz@bsu.edu  | dagon2003    |
+| [First Name , Last Name](Link to github page) | EMAIL address | username     |
+| [First Name , Last Name](Link to github page) | EMAIL address | username   |
 
 #### Project Files
 
